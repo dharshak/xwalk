@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/dharshak-xwalk:/",
-    "/content/dharshak-xwalk/configuration:/.helix/config.json"
+    "/content/xwalk:/",
+    "/content/xwalk/configuration:/.helix/config.json"
   ]
 }
